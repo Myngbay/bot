@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-token = os.getenv('BOT_TOKEN') #Name: Hotels t.me/BestSearchingHotelsBot
+token = os.getenv('BOT_TOKEN') #
 
 db_file = "base.db"
 headers = {
